@@ -13,4 +13,4 @@ import "../styles/index.scss";
 import { Main } from "./component/main.js";
 
 //render your react application
-ReactDOM.render(<Main />, document.querySelector("#first"));
+ReactDOM.render(<Main />, document.querySelector("#app"));
